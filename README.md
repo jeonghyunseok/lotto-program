@@ -1,2 +1,2 @@
 # Lotto
-3
+lotto program study
